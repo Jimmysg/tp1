@@ -1,1 +1,1 @@
-Projet de Jimmy LY version 2.0
+Projet de Jimmy LY version 1.0
